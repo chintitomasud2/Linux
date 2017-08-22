@@ -1,0 +1,1 @@
+ps -aux --sort=-%cpu |grep -m 3 -v $(whoami)
