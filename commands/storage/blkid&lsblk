@@ -1,0 +1,6 @@
+blkid
+blkid -i /dev/sda
+blkid -p/dev/sda
+
+
+lsblk
