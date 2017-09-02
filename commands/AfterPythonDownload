@@ -1,0 +1,10 @@
+sudo apt-get install build-essential
+sudo apt-get install libsqlite3-dev
+sudo apt-get install libbz2-dev 
+
+
+#folder e jeye  ./configure 
+# make 
+# sudo make altinstall 
+
+https://www.python.org/ftp/python/3.6.2/python-3.6.2.exe
