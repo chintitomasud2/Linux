@@ -1,0 +1,2 @@
+rsysnc -av --dry-run Original /backup    //dry-run diye ki file copy hobe ta dekha jabe -->> copy hobe na
+rsync -av Original /backup     //copy file with permission and meta data as well
