@@ -1,4 +1,7 @@
 rsysnc -av --dry-run Original /backup    //dry-run diye ki file copy hobe ta dekha jabe -->> copy hobe na
+
 rsync -av Original /backup     //copy file with permission and meta data as well
+
 rsync -av --delete --dry-run  Original /backup    //backup folder r jodi extra kuno file thake jeta Original e folder ar modde na tahole backup folder sei file ta delete hoye jabe
+
 rsysnc -zaP ~/Projects/My_site chintitomasud@192.168.1.2:~/Desktop/haire //z=compressed. P= process dekhabe % soho
