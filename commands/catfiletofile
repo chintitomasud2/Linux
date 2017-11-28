@@ -1,0 +1,5 @@
+mkdir sumaiyamehrin
+cat <<'EOF' >> japan.txt
+ print  Hello from the other side
+
+EOF
