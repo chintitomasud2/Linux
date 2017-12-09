@@ -1,5 +1,5 @@
 curl www.google.com
 curl -i www.google.com
 curl -d "first=masud &last=rahman " www.google.com     //post request 
-curl -u chintitomasud:a@9133274 www.zobe.com 
+curl -u chintitomasud:asassa www.zobe.com 
 curl -o text.jpg http://localhost:5000/download	
