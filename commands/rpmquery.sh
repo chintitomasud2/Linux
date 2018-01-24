@@ -23,4 +23,14 @@ sudo yum install --downloadonly --downloaddir=/home/chintitomasud/Desktop httpd
 
 
 #########################################
+#    Rpm tahgs
 
+
+rpm --querytags
+rpm -qa --queryformat "%{NAME} %{VERSION}\n" #name ar version ai dekhabe
+rpm -qa --queryformat "%-30{NAME} %-10{VERSION}\n" #name ar version ai dekhabe
+   
+   
+
+
+###################################
